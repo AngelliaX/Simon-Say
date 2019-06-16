@@ -1,0 +1,15 @@
+name: NoiVoiCon
+author: tungnguyen
+version: 1
+description: plugin goi va tra loi
+main: tung\Main
+api: 3.0.0-ALPHA12
+
+commands:
+  sim:
+    description: "SimSimi"
+    usage: "/sim <cauhoi>"
+    permission: simsimi.noi
+  tung:
+    permission: tung.com
+    default: true
