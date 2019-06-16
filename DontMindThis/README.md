@@ -1,2 +1,2 @@
-# BossJG
-This is boss plugin for pocketmine mp 3.0.0
+# SimonSay
+Come to here to see how it work: https://www.youtube.com/watch?v=AunnTTjtJMI
