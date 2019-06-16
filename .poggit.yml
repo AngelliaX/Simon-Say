@@ -4,6 +4,6 @@ branches:
 projects: [
 projects:
   Simon-Say:
-    path: README.md/ 
+    path: ""
 ]
 ...
