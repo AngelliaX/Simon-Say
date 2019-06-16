@@ -3,7 +3,7 @@ branches:
 - master
 projects: [
 projects:
-  SimonSay:
+  Simon-Say:
     path: README.md/ 
 ]
 ...
