@@ -5,6 +5,6 @@ branches:
 projects: [
 projects:
   DontMindThis:
-    path: ""
+    path: "DontMindThis/"
 ]
 ...
