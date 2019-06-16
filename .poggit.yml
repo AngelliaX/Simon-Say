@@ -1,10 +1,8 @@
---- # Poggit-CI Manifest. Open the CI at 
-https://poggit.pmmp.io/ci/TungstenVn/Simon-Say
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/TungstenVn/SimSiMi
 branches:
 - master
-projects: [
 projects:
-  DontMindThis:
-    path: "DontMindThis/"
-]
+  Plugin Tu Lam:
+    path: Plugin Tu Lam/
 ...
+
